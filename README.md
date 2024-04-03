@@ -1,2 +1,1 @@
-# Lab1_CSE110
-CSE 110 Lab 1
+# Aryan's User Page
