@@ -1,8 +1,12 @@
 # **Aryan's User Page**
+
 ![Image](UserPagePictures/AryanUserPagePicture.png)
 ## Introduction
+
 Hi! My name is **Aryan Desai** and I am currently a **junior** at [UC San Diego](https://ucsd.edu). I am majoring in **Computer Engineering** through the [ECE Department](https://www.ece.ucsd.edu)!
+
 ## Sections
+
 - [**Aryan's User Page**](#aryans-user-page)
   - [Introduction](#introduction)
   - [Sections](#sections)
@@ -13,6 +17,7 @@ Hi! My name is **Aryan Desai** and I am currently a **junior** at [UC San Diego]
     - [Formula One](#formula-one)
   - [Remaining Markdown Constructs](#remaining-markdown-constructs)
 ## CSE Coursework Thus Far
+
 So far, these are the courses from the [CSE Department](https://cse.ucsd.edu) that I have completed!
 - [x] CSE 11: Introduction to Programming and Computational Problem Solving
 - [x] CSE 12: Basic Data Structures and Object-Oriented Design
@@ -27,7 +32,9 @@ So far, these are the courses from the [CSE Department](https://cse.ucsd.edu) th
 - [ ] CSE 110: Software Engineering _(in progress)_
 - [ ] CSE 140: Components and Design Techniques for Digital Systems _(in progress)_
 - [ ] CSE 140L: Digital Systems Laboratory _(in progress)_
+
 ## Programming Languages I've Used
+
 - Java
 - JavaScript
 - HTML
@@ -38,25 +45,37 @@ So far, these are the courses from the [CSE Department](https://cse.ucsd.edu) th
 - Assembly (x86 and ARM)
 - C#
 - TypeScript
+
 > This is what my favorite Python Code Looks Like!
+
 ```
 print("Hello, World!")
 ```
+
 ## Hobbies
+
 In my free time, I enjoy being a photohgrapher specifically focusing on automotive content and portraits! I'm also a huge fan of Formula One! 
+
 ### Photography
+
 Below, you can check out some of my favorite pictures that I've taken over the years!
+
 - [Kia Stinger](UserPagePictures/StingerFrontPic.jpg)
 - [Lamborghini Aventador SVJ](UserPagePictures/SVJRollerPic.jpg)
 - [Mercedes-AMG GT3](UserPagePictures/GT3RaceDayPic.jpg)
+
 ### Formula One
+
 I love watching Formula One and have never missed watching a race in over 5 years! I ranked my top 5 favorite current Formula One Drivers below!
+
 1) Carlos Sainz
 2) Lando Norris
 3) Lewis Hamilton
 4) Oscar Piastri
 5) Alex Albon
+
 ## Remaining Markdown Constructs
+
 Some of the additional styling text options were not used in the page. In order to show them off, I've included examples of them below! 
 
 This is what ~~striking text through~~ looks like. 
